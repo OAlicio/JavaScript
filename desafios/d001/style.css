@@ -1,0 +1,9 @@
+@charset "UTF-8";
+input{
+    width: 150px;
+    height: 80px;
+    border-radius: 0px;
+}
+input:hover{
+    background-color: rgba(34, 29, 29, 0.774);
+}

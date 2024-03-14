@@ -1,0 +1,10 @@
+@charset "UTF-8";
+body{
+    margin: auto;
+    text-align: center;
+}
+input{
+    width: 150px;
+    height: 80px;
+    border-radius: 0px;
+}
