@@ -1,5 +1,7 @@
 let res = document.getElementById('res')
+
 function converter(){
+
     let nc = window.prompt('Digite uma temperatura em graus celsius(ºC)')
     if(nc.valueOf().length == 0){
         window.alert('[ERRO] VALOR NULO OU INCORRECTO')
